@@ -3,7 +3,7 @@
 An ELT project where data is extracted using Python and loaded into SQL Server. The project involves data cleaning, preprocessing, and analysis, including solving five SQL problems related to movies and TV shows on Netflix.
 
 # Highlights
-📝 An ELT project is discussed, involving data extraction, loading, and transformation using Python and SQL Server.
+📝 An ELT project involving data extraction, loading, and transformation using Python and SQL Server.
 
 🧹 Data cleaning and preprocessing are important steps in the project.
 
