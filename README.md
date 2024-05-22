@@ -1,4 +1,4 @@
-# Netflix-data-analysis using Python and SQL
+# Media-data-analysis using Python and SQL
 
 An ELT project where data is extracted using Python and loaded into SQL Server. The project involves data cleaning, preprocessing, and analysis, including solving five SQL problems related to movies and TV shows on Netflix.
 
